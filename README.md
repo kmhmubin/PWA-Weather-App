@@ -10,7 +10,7 @@ Weather App build on React PWA
 
 ### PC version
 
-![PC Version](https://github.com/kmhmubin/PWA-Weather-App/blob/master/app%20demo%20pc.png)
+![PC Version](https://github.com/kmhmubin/PWA-Weather-App/blob/master/app%20demo%20pc.jpg)
 
 ### Mobile Version
 
