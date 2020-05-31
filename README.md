@@ -3,7 +3,7 @@ Weather App build on React PWA
 
 ## Live Demo 
 
-[Weather App]()
+👉 [Weather App](https://sharp-hugle-1cfadc.netlify.app/)
 
 
 ## App Demo
